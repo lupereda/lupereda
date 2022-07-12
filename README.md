@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lupereda.  Fullstack developer
 - 👀 I’m interested in high impact projects and startups
-- 🌱 I’m currently learning UX/UI design and advanced Javascript
+- 🌱 I’m currently learning UX/UI design and react Js
 - 💞️ I’m looking to collaborate on new challenges
 - 📫 How to reach me ...  luciapereda21@gmail.com
 
